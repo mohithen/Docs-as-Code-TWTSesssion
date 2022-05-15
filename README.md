@@ -10,4 +10,5 @@ Day 2 started at sharp 10 30. All were present.
 year: 326 BC
 ---
 Alexander invaded India in {{page.year}}
+Porus put up a tough fight and the {{page.year}} is known after Alexander and Porus.
 
