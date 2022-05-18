@@ -16,7 +16,7 @@ Alexander invaded India in {{page.year}}
 Porus put up a tough fight and the {{page.year}} is known after {{site.author}} and Porus.
 
 {% for item in site.data.chronology %}
--{{ item.name }}, {{item.year}}
+- {{ item.name }}, {{item.year}}
 {% endfor %}
 
 Imagine a set of machines in a production line. An individual machine is a Thing.
