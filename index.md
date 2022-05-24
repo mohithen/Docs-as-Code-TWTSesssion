@@ -13,7 +13,7 @@ Day 2 started at sharp 10 30. All were present.
 
 
 Alexander invaded India in {{page.year}}
-Porus put up a tough fight and the {{page.year}} is known after {{site.author}} and Porus. 
+Porus put up a tough fight and the year {{page.year}} is known after {{site.author}} and Porus. 
 {{site.author}} was known as an emperor who wished to invade the whole world.
 
 See the following image:
